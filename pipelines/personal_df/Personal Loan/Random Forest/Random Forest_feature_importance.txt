@@ -1,0 +1,12 @@
+Income: 0.3334
+Education: 0.1985
+CCAvg: 0.1596
+Family: 0.1158
+CD Account: 0.0557
+Mortgage: 0.0351
+Age: 0.0310
+Experience: 0.0283
+ZIP Code: 0.0273
+CreditCard: 0.0077
+Online: 0.0045
+Securities Account: 0.0033
